@@ -4,7 +4,7 @@ Cryptocurrencies today are starting to be less and less about mining. Thats why 
 
 To start mining download the cli under releases, create a wallet, and connect to the pool https://pool.jormo.org/. If you are a solo miner there is a miner executable in the cli folder or `JormoCoinV2/build/src`.
 
-Need help? Join the discord https://discord.gg/4ZA8dRY/.
+Need help? Join the discord https://discordapp.com/invite/4ZA8dRY .
 
 ### How To Compile
 
