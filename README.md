@@ -1,16 +1,17 @@
 ![image](https://i.imgur.com/SKG6YnP.jpg)
 
-Cryptocurrencies today are starting to be less and less about mining. Thats why I made up with Jormo. I want there to be a coin that is focused on mining and community. We use Cryptonight V7 Lite to create an ASIC resistant coin. This way everyone can enjoy the coin and not have to worry about an overload caused by ASIC's. Our development team is dedicated to keeping up on this to make sure ASIC's do not win. We picked this time to release our coin because most currencies are switching to V7 which will change how their coin works. While Jormo is being released with V7 so it is in Jormo's bones
+Jormo is unique by creating a coin that stays with our philosophy of making achievable goals, a stable infrastructure, and a team dedicated to making your experience enjoyable. We want to bring back the fun of mining and earning coins. ASIC resistance is one of the top priorities to keep this goal. While doing all of this we thrive to have a safe and non-aggressive community to work with one another not against one another.
 
-To start mining download the cli under releases, create a wallet, and connect to a pool (See List Below). If you are a solo miner there is a miner executable in the cli folder or `JormoCoinV2/build/src`.
+To start mining download the cli under releases, create a wallet, and connect to a pool (See List Below). We also have a GUI wallet available here: https://github.com/JormoCoin/GUIWallet/releases.
 
-Need help? Join the discord https://discord.gg/4ZA8dRY .
+Need help? Join the discord https://discord.gg/4ZA8dRY/.
 
 ### List Of Pools
 
 - https://pool.jormo.org/
 - https://getpool.org/jor/
 - https://npool.pw/jor/
+- http://jor.wahaobi.com/
 
 Want your pool added? Message 1crusher in the discord.
 
