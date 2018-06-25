@@ -1,6 +1,8 @@
 ![image](https://i.imgur.com/SKG6YnP.jpg)
 
-Jormo is unique by creating a coin that stays with our philosophy of making achievable goals, a stable infrastructure, and a team dedicated to making your experience enjoyable. We want to bring back the fun of mining and earning coins. ASIC resistance is one of the top priorities to keep this goal. While doing all of this we thrive to have a safe and non-aggressive community to work with one another not against one another.
+When I look at most modern altcoins I see amazing and unique ideas. The thing is that's what they are "ideas". They make plans and goals they can't or won't achieve. The greediness for money is driving scams all over internet. I am seeing more and more cryptocurrencies release as time goes on but mining seems to be getting left behind. When I go into the communication platforms used by many cryptocurrencies I see aggressive behavior creating an unsafe or unproductive environment. All of these are driving the altcoin community down a dark path. With Jormo I want to lead the altcoin community down a better more productive path. Jormo is a coin that thrives to stay with miners and community in mind. We will not have an ICO and instead bring people back together to mine. This does not mean you can't buy Jormo it just means you will have to wait until it gets on an exchange.
+
+To really learn more about Jormo I encourage you to read the whitepaper as I want to save space on this website to be a hub of links and basic info. View the whitepaper here.
 
 To start mining download the cli under releases, create a wallet, and connect to a pool (See List Below). We also have a GUI wallet available here: https://github.com/JormoCoin/GUIWallet/releases.
 
