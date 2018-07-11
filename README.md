@@ -4,7 +4,7 @@ Jormo is a new cryptocurrency designed to be a mining and community focused coin
 
 To start mining download the cli under releases, create a wallet, and connect to a pool (See List Below). We also have a GUI wallet available here: https://github.com/JormoCoin/GUIWallet/releases.
 
-Need help? Join the discord https://discord.gg/4ZA8dRY/.
+Need help? Join the discord https://discord.gg/CkhgK4m/.
 
 ### List Of Pools
 
